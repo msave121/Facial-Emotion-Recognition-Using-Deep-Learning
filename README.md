@@ -68,7 +68,7 @@ Emotion Categories
 
 **Surprise** – Expressions of surprise
 
-**Each image is labeled accordingly and used to train and evaluate the model.
+Each image is labeled accordingly and used to train and evaluate the model.
 
 # Objectives
 
